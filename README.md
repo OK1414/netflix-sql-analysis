@@ -1,5 +1,5 @@
 # Netflix Movies and TV Shows — SQL Data Analysis
-![Netflix Logo]()
+![Netflix Logo](https://github.com/OK1414/netflix-sql-analysis/blob/main/logo.png)
 
 A SQL (PostgreSQL) analysis of the Netflix titles dataset, working through
 15 business questions from data exploration through to business insight.
